@@ -1,4 +1,4 @@
-# Biz-Refrac
+# Horiseon
 
 ## Desription
 
@@ -10,4 +10,4 @@ This is a multi media website created to advertise search engine optimization, o
 
 ## Link
 
-www.biz.com
+https://masakisenpai.github.io/Biz-Refrac/
